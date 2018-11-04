@@ -1,0 +1,17 @@
+* {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+header {
+    font-size: 18;
+    color: black;
+    text-align: center
+}
+#header1{
+  padding-top: 12px;
+}
+#header2, #header4 {
+  color: green;
+}
+#header2{
+  padding-bottom: 12px;
+}

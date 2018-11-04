@@ -1,0 +1,16 @@
+textarea {
+  margin-top: 2px;
+  font-size: 14px;
+  style:
+    width: '30%';
+  margin-bottom: 2px;
+}
+
+#inputVideos {
+  height: 60px;
+}
+
+#inputSearch {
+  height: 20px;
+  style={'width': '30%'}
+}
