@@ -1,3 +1,7 @@
+# Author: Davis Lee
+# Description: Provides functions to create dictionaries of search terms and
+#              associated timestamps as well as lookup functionality
+
 import xmltodict
 import urllib
 from nltk.corpus import stopwords

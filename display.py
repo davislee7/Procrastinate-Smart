@@ -1,3 +1,6 @@
+# Author: Davis Lee
+# Description: Frontend for Proacrastinate-Smart using Dash
+
 import functions
 import dash
 import dash_core_components as dcc
